@@ -3,7 +3,7 @@
 
 Aspiring Security Network Engineering, and my passion is Computer Networking and Programming. I am passionate to learn and discover more about computers and making more robust networking security with accompany software that power the modern web today
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/msyahmizul/)
+[![Linkedin](https://img.shields.io/badge/-MSyahmiZulkifli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/msyahmizul/)
 
 ## Skills
 - Concept: OOP, Microservices, Database Management, ORM
